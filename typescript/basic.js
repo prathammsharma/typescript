@@ -1,0 +1,13 @@
+"use strict";
+let num = 18;
+let str = "Pratham Sharma";
+let isAvailable = true;
+let emptyValue = null;
+let notAssigned = undefined;
+let anything = "Anything";
+console.log("Number:", num);
+console.log("String:", str);
+console.log("Boolean:", isAvailable);
+console.log("Null:", emptyValue);
+console.log("Undefined:", notAssigned);
+console.log("Any:", anything);
